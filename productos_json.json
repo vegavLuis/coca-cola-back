@@ -1,0 +1,179 @@
+[{
+    "idInterno":300,
+    "nombreProducto":"Coca Kola OG 500ml",
+    "submarca":"MLB",
+    "numeroInterno":600,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-01-01"
+},
+
+{
+    "idInterno":310,
+    "nombreProducto":"Coca Kola OG 1L",
+    "submarca":"MLB",
+    "numeroInterno":610,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-01-02"
+},
+
+{
+    "idInterno":320,
+    "nombreProducto":"Coca Kola OG 2.5",
+    "submarca":"MLB",
+    "numeroInterno":620,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-01-03"
+},
+
+{
+    "idInterno":330,
+    "nombreProducto":"Coca Kola OG 3L",
+    "submarca":"MLB",
+    "numeroInterno":630,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-01-04"
+},
+
+{
+    "idInterno":340,
+    "nombreProducto":"Coca Kola CERO 500ml",
+    "submarca":"MLB",
+    "numeroInterno":640,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-02-01"
+},
+
+{
+    "idInterno":350,
+    "nombreProducto":"Coca Kola CERO 1L",
+    "submarca":"MLB",
+    "numeroInterno":650,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-02-02"
+},
+
+{
+    "idInterno":360,
+    "nombreProducto":"Coca Kola CERO 2.5L",
+    "submarca":"MLB",
+    "numeroInterno":660,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-023-03"
+},
+
+{
+    "idInterno":370,
+    "nombreProducto":"Coca Kola CERO 3L",
+    "submarca":"MLB",
+    "numeroInterno":670,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-02-04"
+},
+
+{
+    "idInterno":380,
+    "nombreProducto":"Coca Kola CEREZA 500ml",
+    "submarca":"MLB",
+    "numeroInterno":680,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-03-01"
+},
+
+{
+    "idInterno":390,
+    "nombreProducto":"Coca Kola CEREZA 1L",
+    "submarca":"MLB",
+    "numeroInterno":690,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-03-02"
+},
+
+{
+    "idInterno":400,
+    "nombreProducto":"Coca Kola CEREZA CEREZA 2.5L ",
+    "submarca":"MLB",
+    "numeroInterno":700,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-03-03"
+},
+
+{
+    "idInterno":410,
+    "nombreProducto":"Coca Kola CEREZA 3L",
+    "submarca":"MLB",
+    "numeroInterno":710,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-03-04"
+},
+
+{
+    "idInterno":420,
+    "nombreProducto":"Coca Kola VAINILLA 500ml",
+    "submarca":"MLB",
+    "numeroInterno":720,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-04-01"
+},
+
+{
+    "idInterno":430,
+    "nombreProducto":"Coca Kola VAINILLA 1L",
+    "submarca":"MLB",
+    "numeroInterno":730,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-04-02"
+},
+
+{
+    "idInterno":440,
+    "nombreProducto":"Coca Kola VAINILLA 2.5L",
+    "submarca":"MLB",
+    "numeroInterno":740,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-04-03"
+},
+
+{
+    "idInterno":450,
+    "nombreProducto":"Coca Kola VAINILLA 3L",
+    "submarca":"MLB",
+    "numeroInterno":750,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-04-04"
+},
+
+{
+    "idInterno":460,
+    "nombreProducto":"Coca Kola LIGHT 500ml",
+    "submarca":"MLB",
+    "numeroInterno":760,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-05-01"
+},
+
+{
+    "idInterno":470,
+    "nombreProducto":"Coca Kola LIGHT 1L",
+    "submarca":"MLB",
+    "numeroInterno":770,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-05-02"
+},
+
+{
+    "idInterno":480,
+    "nombreProducto":"Coca Kola LIGHT 2.5",
+    "submarca":"MLB",
+    "numeroInterno":780,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-05-03"
+},
+
+{
+    "idInterno":490,
+    "nombreProducto":"Coca Kola LIGHT 3L",
+    "submarca":"MLB",
+    "numeroInterno":790,
+    "zona":"CDMX Area Metropolitana",
+    "fechaAlta":"2024-05-04"
+}]
